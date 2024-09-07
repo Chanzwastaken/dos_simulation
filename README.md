@@ -51,6 +51,3 @@ This script will flood the server with HTTP requests, attempting to overwhelm it
 - `webserver.py`: The Flask-based web server script.
 - `importrequests2.py`: The DoS attack script.
 - `README.md`: This documentation file.
-
-## License
-This project is licensed under the MIT License.
