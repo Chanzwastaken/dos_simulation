@@ -2,7 +2,7 @@
 # DoS Attack Simulation on a Python Flask Web Server
 
 ## Contributions
-- **Contributor 1:** Initial setup of the Flask web server and integration of the basic calculator functionality.
+- **Rendyta Moristadella** Initial setup of the Flask web server and integration of the basic calculator functionality.
 - **M. Chandra Agoeng P:** Developed the DoS attack simulation script and optimized the attack methods.
 - **Nashrillah Khairu Daffa :** Enhanced server performance and implemented additional security measures for testing.
 
