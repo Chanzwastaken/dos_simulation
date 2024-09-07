@@ -1,6 +1,11 @@
 
 # DoS Attack Simulation on a Python Flask Web Server
 
+## Contributions
+_ **Contributor 1:** Initial setup of the Flask web server and integration of the basic calculator functionality.
+- **Contributor 2:** Developed the DoS attack simulation script and optimized the attack methods.
+- **Contributor 3:** Enhanced server performance and implemented additional security measures for testing.
+
 This repository contains two Python scripts:
 1. `webserver.py`: A simple Flask-based web server that provides a basic calculator.
 2. `importrequests2.py`: A script designed to simulate a Denial of Service (DoS) attack on the web server.
