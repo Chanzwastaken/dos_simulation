@@ -5,7 +5,7 @@
 - **Rendyta Moristadella :** Initial setup of the Flask web server and integration of the basic calculator functionality.
 - **M. Chandra Agoeng P :** Developed the DoS attack simulation script and optimized the attack methods.
 - **Nashrillah Khairu Daffa :** Enhanced server performance and implemented additional security measures for testing.
-- **Asyraf Nur Ardliansyah :** Implementation of automated reporting for DoS Attack Simulation
+- **Asyraf Nur Ardliansyah :** Handling reports for DoS attack simulation on a python flask web server
 
 This repository contains two Python scripts:
 1. `webserver.py`: A simple Flask-based web server that provides a basic calculator.
